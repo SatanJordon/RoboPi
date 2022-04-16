@@ -1,0 +1,2 @@
+model_checkpoint_path: "E:\\PythonIntermediate\\pythonProject\\RoboPi\\model.tflearn"
+all_model_checkpoint_paths: "E:\\PythonIntermediate\\pythonProject\\RoboPi\\model.tflearn"
